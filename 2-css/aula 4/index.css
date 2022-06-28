@@ -1,0 +1,12 @@
+body{
+  background: #dfdfdf;
+}
+
+p {
+  color: rgb(34, 34, 34);
+}
+
+.foto-mw{
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+}
